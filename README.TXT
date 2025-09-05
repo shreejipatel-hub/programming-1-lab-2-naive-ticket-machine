@@ -90,4 +90,6 @@ How to start this project: Create one or more TicketMachine objects.
 37)it will print "My cat has green eyes.".
 39)it will print "# price cents."
 40) it will print the same thing as before "# price cents."
-41)
+42) it is because each time a new TicketMachine is created it's an independant object and each object maintains its unique state.
+43)yes it prints the same output as before.no i cant workout what  %d and %n parts mean here
+44)
