@@ -42,3 +42,52 @@ How to start this project: Create one or more TicketMachine objects.
     give that message about the syntax error.
 16) yes it is necessary to add the semicolon after each statement because if you dont add a semicolon at the end the code will not compile since 
     the statement does not have an end.
+17)private int status
+18)it belongs to the Student class
+19)2 parameters
+    title= parameter=string
+    price= parameter=double
+20) yes it typically needs to be somewhere persistent to initalize the objects field
+    the string is most probably for book's title and double for book's price.
+21) public Pet(String petsName)
+        {
+            name=petsName;
+        }
+22) public Date(String month, int day, int year)
+23) the one diffrence between headers is the name getBalance and getPrice
+    and for the body its also the name i couldnt see any other diffrence because they are both gonna return the value at the end.
+24)How much is the amount that u inserted in the machine.
+25)no this means that the accessor method is independant from its field 
+27)the erros that shows up is that there is not a statement
+28) one of their diffrence is their return type getPrice is int and printTicket is void
+29) no they do not have a return statement because they dont necessarily have to return the information for example
+    insertMoney is taking money from you and to view the amount you can use the get balance button and the other one is printing a ticket.
+31)/**
+    * Increase score by the given number of points.
+    */
+    public void increaseScore(int points)
+        {
+            score = score + points;
+        }
+32)yes add credits is a mutator
+33)/**
+    * Reduce price by the given amount.
+    */
+        public void discount(int amount)
+            {
+                price = amount-price;
+            }
+34)public void setAge(int currentAge)
+    {
+        age = currentAge;
+    }
+35)public void setAlive(boolean isAlive)
+    {
+        alive = isAlive;
+    }
+36)after chnaging price=price the cost of the ticket will stay 0 because price is being equalled to itself and and the value of price before the amount
+     we enter is 0 so it will stay 0.
+37)it will print "My cat has green eyes.".
+39)it will print "# price cents."
+40) it will print the same thing as before "# price cents."
+41)
