@@ -92,4 +92,6 @@ How to start this project: Create one or more TicketMachine objects.
 40) it will print the same thing as before "# price cents."
 42) it is because each time a new TicketMachine is created it's an independant object and each object maintains its unique state.
 43)yes it prints the same output as before.no i cant workout what  %d and %n parts mean here
-44)
+44)now that it has a fixed price of 1000 the system does not ask us to enter a price when creating a new machine.
+46)the diffrence that I notice is that now I have 2 chice when I go to create a new machine one that has a fixed price and one where we have to specify a price.
+47)
